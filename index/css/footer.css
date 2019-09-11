@@ -1,0 +1,12 @@
+/*页脚*/
+#footer{height:114px;padding-top:25px;box-sizing: border-box;width:1000px;margin:0 auto;overflow:hidden;}
+#footer .footer-l{float:left;}
+#footer .footer-l img{width:82px;}
+#footer .footer-c{width:732px;height:61px;float:left;margin-left:20px;}
+#footer .footer-c ul{}
+#footer .footer-c ul li{float:left;}
+#footer .footer-c ul li a{font:12px/1 ""; color:#a4a4a4;padding:0 6px;border-left:1px solid #9b9b9b;}
+#footer .footer-c ul li a.first{border-left:0;padding-left:0;}
+#footer .footer-c .copyright{font:12px/20px "";color:#A4A4A4;}
+#footer .footer-c .copyright a{color:#A4A4A4;}
+#footer .footer-r{width:174px;height:24px;float:right;}

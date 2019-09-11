@@ -1,0 +1,9 @@
+/*楼层*/
+#floor{border:1px solid #9b9b9b;border-radius:10px;overflow: hidden;position: absolute;left:0;top:1600px;}
+#floor ul{}
+#floor ul li{background:#fff;font:12px/20px "";padding:10px;box-sizing: border-box;text-align: center;}
+#floor ul li.last a{border:none;}
+#floor ul li a{color:#666;border-bottom:1px solid #9b9b9b;padding:5px;}
+
+#floor .action{color:#fff;background:#f10180;font-weight: 700;}
+#floor .action a{color:#fff}

@@ -1,0 +1,17 @@
+/*服务*/
+#service{height:211px;}
+#service .margin{height:211px;width:1000px;margin:0 auto;border-top:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;padding-top:20px;display:flex;justify-content: space-between;}
+#service .margin .margin-l{width:920px;height:160px;float:left;}
+#service .margin .margin-l dl{float:left;margin-right:65px;}
+#service .margin .margin-l dl dt{}
+#service .margin .margin-l dl dt a{font:14px/2 "";color:#000;}
+#service .margin .margin-l dl dd{}
+#service .margin .margin-l dl dd a{font:12px/2 "";color:#777;}
+#service .margin .margin-r{width:279px;height:160px;border-left:1px solid #e5e5e5;float:left;text-align: center;display:flex;justify-content: center;flex-flow: column;align-content: center;}
+#service .margin .margin-r h2{font:700 24px/2 "";}
+#service .margin .margin-r p{font:14px/1 "";color:#575757;}
+#service .margin .margin-r .online{width:170px;height:34px;font:14px/34px "";background:#333;border-radius:17px;margin:20px 0 30px 40px;}
+#service .margin .margin-r .online a{color:#fff;height:34px;display: block;}
+#service .margin .margin-r .about{border-left:1px solid #e5e5e5;}
+#service .margin .margin-r .about h4{font:14px/1 "";float:left;}
+#service .margin .margin-r .about a img{width:100px;height:100px;border:1px solid #000;}

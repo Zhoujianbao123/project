@@ -1,0 +1,35 @@
+
+
+/*头部*/
+#header1{height:74px;padding:18px 0 15px 0;box-sizing:border-box;width:1000px;margin:0 auto;}
+#header1 .left{float:left;}
+#header1 .left .logo{float:left;margin-right:34px;}
+#header1 .left .logo img{width:205px;height:60px;display:block;}
+#header1 h2{font:700 20px/2 "";float:left;}
+#header1 h3{border-radius:10px;background:#ff0000;font:700 14px/2 "";float:left;margin-left:20px;padding:5px 10px;}
+#header1 h3 a{color:#fff;}
+#header1 .right form{width:320px;height:30px;border-top-left-radius:20px;border-bottom-left-radius:20px;overflow: hidden;}
+#header1 .right form input{float:left;background:#f0f0f0;}
+#header1 .right form input.search{width:285px;height:30px;}
+#header1 .right form input.submit{width:30px;height:30px;background:#f0f0f0 url("../images/search.png") no-repeat center;background-size:15px 15px;}
+
+
+th{font:700 20px/2 "";overflow: hidden;}
+td{height:50px;width:100px;}
+td img{height:112px;}
+td h4{font:20px/112px "";}
+td span{font:24px/112px "";color:#ff0000;}
+input{font:24px/2 "";margin-top:80px;}
+td.del{box-sizing:border-box;padding:80px;}
+td.del input{margin:0;font:20px/2 "";}
+/* .tbody{height:500px;} */
+
+
+
+/*占位*/
+.table{margin-bottom:0;width:1000px;margin:0 auto;background:burlywood;}
+#zhanwei{height:500px;background:#f5f5f5}
+#kong{height:500px;background:#fff;box-sizing: border-box;padding-top:100px;}
+#kong div{width:100px;height:100px;background:#f4f4f4 url("../images/car_empty.png") no-repeat center;background-size:50px;border-radius:50%;margin:0 auto;}
+#kong span{display:block;font:14px/4 "";color:greenyellow;margin:0 auto;width:200px;text-align: center;}
+#kong a{color:#fff;background:#ff0000;border-radius:5px;display:block;width:100px;padding:15px 0;margin:0 auto;text-align: center;text-decoration: none;}

@@ -1,0 +1,34 @@
+/*头部*/
+#header{height:100px;overflow: hidden;width:1000px;margin:0 auto;}
+#header .left{float:left;}
+#header .left .logo{float:left;margin-right:34px;}
+
+#header .left .logo img{width:150px;height:100px;display:block;}
+#header .left ul{float:left;}
+#header .left ul li{float:left;margin-right:34px;margin-top:30px;}
+#header .left ul li a{font:16px/40px "";color:#000;}
+#header .left ul li.first a{background:mediumvioletred;color:#fff;border-radius: 10px;padding:2px 4px;}
+#header .left ul li.second a{background:cornflowerblue;color:#fff;border-radius: 10px;padding:2px 4px;}
+#header .right{float:right;}
+#header .right form{width:322px;height:30px;overflow: hidden;margin-top:30px;border:1px solid purple;}
+#header .right form input{float:left;background:#f0f0f0;}
+#header .right form input.search{width:285px;height:30px;}
+#header .right form input.submit{width:35px;height:30px;background:mediumvioletred url("../images/search.png") no-repeat center;background-size:15px 15px;}
+.nav{width:1000px;margin:0 auto;height:50px;display: flex;justify-content: space-between;}
+.nav .nav-l ul>li>ul>li> .active{background:#fff;color:mediumvioletred;font:16px/30px "宋体";display: block;text-align:center;}
+.nav .nav-l{font:24px/50px "宋体";}
+.nav .nav-l>ul>li>span{font:24px/50px "宋体";} 
+.nav .nav-r{font:16px/50px "宋体";width:800px;}
+.nav .nav-r ul{display: flex;justify-content: space-between;}
+.nav .nav-r ul li a{color:gray;}
+.nav .nav-l>ul{position: relative;z-index:1000;background:mediumvioletred;}
+.nav .nav-l>ul>li>ul{position: absolute;background:mediumvioletred;} 
+.nav .nav-l>ul>li>ul>li>span{color:#fff;font:16px/30px "宋体";width:96px;text-align:center;display:block;} 
+.nav .nav-l>ul>li>ul>li>ul{position: absolute;left:96px;top:0;width:850px;height:360px;background:#fff;} 
+.nav .nav-l ul ul ul{display: none;}
+.nav .nav-l>ul>li>ul{display: none;}
+.nav .nav-l>ul>li>ul>li>ul>li span{display:block;float:left;}
+.nav .nav-l>ul>li>ul>li>ul>li i{display:block;float:left;}
+.nav .nav-l>ul>li>ul>li>ul>li ul{display:block;float:left;}
+.nav .nav-l>ul>li>ul>li>ul>li ul li{display:block;float:left;} 
+
