@@ -14,8 +14,8 @@
      （3）楼层效果  
 	1、自身定位效果
 	2、内部各链接点击定位效果      
-3、商品列表页路径：store/phone_list/phone_list.html
-     商品列表页入口：主页手机商品区域中文本为“更多”字样的超链接
+3、商品列表页路径：store/shop-list/shop-list.html
+     商品列表页入口：主页商品区域中文本为“更多”字样的超链接
      （1）顶部效果
      	1、超链接文本进入离开触发变色效果
      	2、超链接相应的拓展区域进入离开触发显示/隐藏效果
@@ -26,7 +26,7 @@
     	2、无数据时，显示暂无商品出售友情提示
      	3、点击添加购物车按钮可以添加对应的商品信息到Cookie中
 4、商品详情路径：store/detail/detail.html
-     商品详情页入口：主页手机商品区域中第一排第二列的商品
+     商品详情页入口：主页商品区域中第一排第二列的商品
       （1）放大镜效果
      	1、放大鼠标所在指定区域滑过的图片区域
      	2、边界限定
@@ -67,6 +67,6 @@
      	3、手机号长度验证
 
 【注】
-        1.github文件路径：https://github.com/AI-fisher/project.git中的store项目
+        1.github文件路径：https://github.com/Zhoujianbao123/project.git中的store项目
         2.SASS文件路径：store/register/scss/register.scss
         3.模块化主文件路径：store/register/js/register.js

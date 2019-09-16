@@ -1,5 +1,5 @@
 /*商品*/
-/* #main-t{height:2000px;} */
+#main-t{height:2000px;}
 #main-t .title{height:32px;padding-top:10px;box-sizing: border-box;}
 #main-t h2{font:26px/1 "";margin-bottom:13px;float:left;}
 #main-t .nav{float:left;margin-left:30px;}
